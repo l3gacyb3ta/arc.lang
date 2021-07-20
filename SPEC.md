@@ -10,12 +10,13 @@ You can move around the opperating var
 
 ## Instructions:
 
-| code | instruction                |
-|------|----------------------------|
-| arc  | increment op               |
-| aRc  | decrement op               |
-| Arc  | move op up in stack        |
-| arC  | move op down in stack      |
-| ARc  | increment op by stack down |
-| aRC  | decrement op by stack down |
-| ARC  | print out stack as ascii   |
+| code | instruction                    |
+|------|--------------------------------|
+| arc  | increment op                   |
+| aRc  | decrement op                   |
+| Arc  | move op up in stack            |
+| arC  | move op down in stack          |
+| ARc  | increment op by stack down     |
+| aRC  | decrement op by stack down     |
+| ArC  | print out stack at op as ascii |
+| ARC  | print out stack at op          |
